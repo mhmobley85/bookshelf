@@ -5,3 +5,4 @@ title = "The Good For Nothing"
 image = "good-for-nothing.jpg"
 +++
 
+**Good For Nothing** is a book that you should judge by it's cover. It's good for nothing, except maybe as a paperweight.
