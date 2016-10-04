@@ -1,0 +1,6 @@
+baseurl = "https://mhmobley85.github.io/bookshelf/"
+languageCode = "en-us"
+title = "Mark Mobley Book Reviews"
+
+[Params]
+  Author = "Mark MObley"
